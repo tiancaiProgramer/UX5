@@ -1,0 +1,7 @@
+*.zip
+*.exe
+*.pdb
+*.dpapi
+*.pfx
+*.key
+.env
