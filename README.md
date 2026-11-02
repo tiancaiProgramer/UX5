@@ -4,6 +4,8 @@ Windows 本地 AI 控制中心：集中配置思考 AI、执行 Agent、项目�
 
 **当前发行：0.3.0 公开预览版，按全新安装提供。** 这不是稳定版；建议先在独立测试工程中体验并反馈问题。
 
+当前构建尚未完成“全新安装到后台全部就绪”的完整实际验收；发布用于愿意参与测试的用户反馈，不作开箱即用保证。
+
 ## 下载与安装
 
 前往 [Releases](https://github.com/tiancaiProgramer/UX5/releases)，下载 `UX5-0.3.0-preview-win-x64.zip`，不要下载 GitHub 自动生成的 Source code ZIP。
